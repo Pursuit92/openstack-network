@@ -1,4 +1,4 @@
-package network
+package neutron
 
 type Network struct {
 	Bridge            string `json:"bridge,omitempty"`
